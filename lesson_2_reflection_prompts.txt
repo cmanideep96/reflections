@@ -14,6 +14,7 @@ organized? How would branches help?
 	branches are helpful when we are experimenting with our code and by maintaining branch history,we don't need to bother about our main version
 
 How do the diagrams help you visualize the branch structure?
+	Diagrams helps to know which is the masternode,branchnode this is important because we may not go through some branch nodes. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
